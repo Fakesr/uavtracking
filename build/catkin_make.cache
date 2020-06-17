@@ -1,0 +1,2 @@
+fv_tracking:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/dov1s/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dov1s/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/dov1s/catkin_ws/devel
+
+Name: fv_tracking
+Description: Description of fv_tracking
+Version: 1.0.0
+Cflags: -I/home/dov1s/catkin_ws/devel/include -I/home/dov1s/catkin_ws/src/fv_tracking/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

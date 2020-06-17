@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/opt/ros/kinetic/lib;/usr/local/cv_bridge340/lib")
